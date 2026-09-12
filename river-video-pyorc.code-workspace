@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "C:\\Miniforge\\envs\\pyorc_env\\python.exe",
+    "jupyter.jupyterServerType": "local"
+  }
+}

@@ -1,0 +1,16 @@
+name: pyorc_env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - cartopy
+  - numpy
+  - pandas
+  - matplotlib
+  - xarray
+  - opencv
+  - jupyterlab
+  - ipykernel
+  - pip:
+      - pyopenrivercam

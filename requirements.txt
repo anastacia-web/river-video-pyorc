@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+xarray
+opencv-python
+jupyterlab
+ipykernel
+pyopenrivercam
