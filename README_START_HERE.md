@@ -26,10 +26,6 @@ The Ngwerere example is not included as project data. It was only used for PyORC
 
 Calibrated velocity, PIV, transect, bulk velocity, and discharge remain **To be completed** until real camera/GCP and cross-section information are available.
 
-##Video
-
-https://github.com/user-attachments/assets/500f29dd-00ba-4e1b-9efb-464be4521210
-
 
 ## Jupyter notebook contents
 
